@@ -4,7 +4,10 @@
   "announcements": [
     {
       "date": "2025-03-04",
-      "default": {},
+      "default": {
+        "title": "The first Playtest is open",
+        "content": "https://raw.githubusercontent.com/PixelCrafter42/sk2/main/announcements/11/en.md"
+      },
       "zh-CN": {
         "title": "更新1",
         "content": "https://raw.githubusercontent.com/PixelCrafter42/sk2/main/announcements/11/cn.md"
